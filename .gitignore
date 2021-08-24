@@ -1,0 +1,6 @@
+/env
+/.pytest_cache
+*.pkl 
+*.model 
+*.h5
+/.vscode
